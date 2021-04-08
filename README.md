@@ -1,7 +1,8 @@
 # Git-Esssentials
 
-## Deployment Notes
-
-## Staging notes 
-
-## How to use repo notes
+## Deployment Ndsadsadas
+dsadasdasdas
+dsad
+asdsada
+sdasd
+asdasdsad
