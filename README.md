@@ -2,6 +2,6 @@
 
 ## Deployment Notes
 
-##staging notes 
+## Staging notes 
 
 ## How to use repo notes
