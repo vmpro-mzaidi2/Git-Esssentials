@@ -1,7 +1,9 @@
-# Git-Esssentials
+# Git-Esssentials /git for everbody
 
-## Deployment Notes
+fdsfdsfsdfsdf
+fdsfdssdf
+fdsfdsf
+sd
+fdsfds
 
-## Staging notes 
 
-## How to use repo notes
