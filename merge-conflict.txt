@@ -1,6 +1,7 @@
-line 1 github
-line 2 github 
-line three github (edited local) 
-line 4 github
-line 5 github
+line 1 by github  
+line 2 by github  
+line 3 by github  line 1 by github  
+line 4 by github  
+line 5 by github  
+line 6 by github  
 
